@@ -1,7 +1,7 @@
 # Promhod Python
 ## Basic
 ```python
-pip install notebook pandas ipywidgets
+pip install notebook pandas ipywidgets openpyxl
 ```
 ## WEB CRAWLING
 ```
