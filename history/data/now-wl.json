@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1004899512,
+    "waterlevel_datetime": "2025-01-10 15:20",
+    "waterlevel_m": null,
+    "waterlevel_msl": "57.78",
+    "waterlevel_msl_previous": "57.79",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "64.22",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 3,
+    "agency": {
+      "id": 9,
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro – Informatics Institute (Public Organization)",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "สสน.", "en": "HII", "jp": "" }
+    },
+    "basin": {
+      "id": 17,
+      "basin_code": 16,
+      "basin_name": { "th": "ลุ่มน้ำโตนเลสาบ", "en": "Tonle Sap" }
+    },
+    "station": {
+      "id": 192,
+      "tele_station_name": { "en": "Ta Phraya", "th": "ตาพระยา" },
+      "tele_station_lat": 14.051245,
+      "tele_station_long": 102.88538,
+      "tele_station_oldcode": "TON001",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 59.0445,
+      "right_bank": 58.9445,
+      "min_bank": 58.94,
+      "ground_level": 55.69,
+      "offset": null,
+      "sub_basin_id": 287,
+      "agency_id": 9,
+      "geocode_id": 1622,
+      "hydro_id": null,
+      "qmax": null,
+      "is_key_station": false,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "03",
+      "amphoe_name": { "th": "ตาพระยา", "en": "Ta Phraya District" },
+      "tumbon_code": "02",
+      "tumbon_name": { "th": "ทัพเสด็จ", "en": "Thap Sadet" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "1.16",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 194623,
+    "river_name": "ห้วยยาง"
+  },
+  {
+    "id": 1004899459,
+    "waterlevel_datetime": "2025-01-10 15:20",
+    "waterlevel_m": null,
+    "waterlevel_msl": "30.03",
+    "waterlevel_msl_previous": "30.03",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "54.84",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 3,
+    "agency": {
+      "id": 9,
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro – Informatics Institute (Public Organization)",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "สสน.", "en": "HII", "jp": "" }
+    },
+    "basin": {
+      "id": 16,
+      "basin_code": 15,
+      "basin_name": { "th": "ลุ่มน้ำบางปะกง", "en": "Bang Pakong" }
+    },
+    "station": {
+      "id": 191,
+      "tele_station_name": { "en": "Mueang Sa Kaeo", "th": "เมืองสระแก้ว" },
+      "tele_station_lat": 13.809581,
+      "tele_station_long": 102.05429,
+      "tele_station_oldcode": "SKE002",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 35.156,
+      "right_bank": 34.76,
+      "min_bank": 34.76,
+      "ground_level": 24.287,
+      "offset": null,
+      "sub_basin_id": 277,
+      "agency_id": 9,
+      "geocode_id": 1610,
+      "hydro_id": null,
+      "qmax": null,
+      "is_key_station": false,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "01",
+      "amphoe_name": { "th": "เมืองสระแก้ว", "en": "Mueang Sa Kaeo District" },
+      "tumbon_code": "08",
+      "tumbon_name": { "th": "สระขวัญ", "en": "Sa Khwan" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "4.73",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 196387,
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 1004850673,
+    "waterlevel_datetime": "2025-01-10 12:00",
+    "waterlevel_m": null,
+    "waterlevel_msl": "29.63",
+    "waterlevel_msl_previous": "29.63",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "49.01",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 3,
+    "agency": {
+      "id": 12,
+      "agency_name": {
+        "th": "กรมชลประทาน ",
+        "en": "Royal Irrigation Department",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "ชป.", "en": "RID", "jp": "" }
+    },
+    "basin": {
+      "id": 16,
+      "basin_code": 15,
+      "basin_name": { "th": "ลุ่มน้ำบางปะกง", "en": "Bang Pakong" }
+    },
+    "station": {
+      "id": 2677,
+      "tele_station_name": { "th": "บ้านสระขวัญ" },
+      "tele_station_lat": 13.8096,
+      "tele_station_long": 102.054382,
+      "tele_station_oldcode": "Kgt.10",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 58.801,
+      "right_bank": 59.247,
+      "min_bank": 35,
+      "ground_level": 24.468,
+      "offset": 24,
+      "sub_basin_id": 277,
+      "agency_id": 12,
+      "geocode_id": 1610,
+      "hydro_id": 6,
+      "qmax": 300,
+      "is_key_station": false,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "01",
+      "amphoe_name": { "th": "เมืองสระแก้ว", "en": "Mueang Sa Kaeo District" },
+      "tumbon_code": "08",
+      "tumbon_name": { "th": "สระขวัญ", "en": "Sa Khwan" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "5.37",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 196387,
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 1004850671,
+    "waterlevel_datetime": "2025-01-10 12:00",
+    "waterlevel_m": null,
+    "waterlevel_msl": "43.27",
+    "waterlevel_msl_previous": "43.28",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "39.86",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 3,
+    "agency": {
+      "id": 12,
+      "agency_name": {
+        "th": "กรมชลประทาน ",
+        "en": "Royal Irrigation Department",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "ชป.", "en": "RID", "jp": "" }
+    },
+    "basin": {
+      "id": 16,
+      "basin_code": 15,
+      "basin_name": { "th": "ลุ่มน้ำบางปะกง", "en": "Bang Pakong" }
+    },
+    "station": {
+      "id": 2675,
+      "tele_station_name": { "th": "บ้านเขาฉกรรจ์" },
+      "tele_station_lat": 13.66804,
+      "tele_station_long": 102.0756,
+      "tele_station_oldcode": "Kgt.9",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 90.21600000000001,
+      "right_bank": 90.16499999999999,
+      "min_bank": 49.57,
+      "ground_level": 39.094,
+      "offset": 39.57,
+      "sub_basin_id": 277,
+      "agency_id": 12,
+      "geocode_id": 1659,
+      "hydro_id": 6,
+      "qmax": 499.200012,
+      "is_key_station": true,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "07",
+      "amphoe_name": { "th": "เขาฉกรรจ์", "en": "Khao Chakan District" },
+      "tumbon_code": "02",
+      "tumbon_name": { "th": "หนองหว้า", "en": "Nong Wa" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "6.30",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 197516,
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 1004850676,
+    "waterlevel_datetime": "2025-01-10 12:00",
+    "waterlevel_m": null,
+    "waterlevel_msl": "15.01",
+    "waterlevel_msl_previous": "15.01",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "29.45",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 2,
+    "agency": {
+      "id": 12,
+      "agency_name": {
+        "th": "กรมชลประทาน ",
+        "en": "Royal Irrigation Department",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "ชป.", "en": "RID", "jp": "" }
+    },
+    "basin": {
+      "id": 16,
+      "basin_code": 15,
+      "basin_name": { "th": "ลุ่มน้ำบางปะกง", "en": "Bang Pakong" }
+    },
+    "station": {
+      "id": 1098950,
+      "tele_station_name": { "th": "บ้านแก้ง" },
+      "tele_station_lat": 13.93635,
+      "tele_station_long": 101.972321,
+      "tele_station_oldcode": "Kgt.12A",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 35.701,
+      "right_bank": 35.847,
+      "min_bank": 21,
+      "ground_level": 12.509,
+      "offset": 12.43,
+      "sub_basin_id": 278,
+      "agency_id": 12,
+      "geocode_id": 1605,
+      "hydro_id": 6,
+      "qmax": 127,
+      "is_key_station": true,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "01",
+      "amphoe_name": { "th": "เมืองสระแก้ว", "en": "Mueang Sa Kaeo District" },
+      "tumbon_code": "02",
+      "tumbon_name": { "th": "บ้านแก้ง", "en": "Ban Kaeng" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "5.99",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 195444,
+    "river_name": "คลองพระปรง"
+  },
+  {
+    "id": 1004899460,
+    "waterlevel_datetime": "2025-01-10 15:20",
+    "waterlevel_m": null,
+    "waterlevel_msl": "41.12",
+    "waterlevel_msl_previous": "41.12",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "11.70",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 2,
+    "agency": {
+      "id": 9,
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro – Informatics Institute (Public Organization)",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "สสน.", "en": "HII", "jp": "" }
+    },
+    "basin": {
+      "id": 17,
+      "basin_code": 16,
+      "basin_name": { "th": "ลุ่มน้ำโตนเลสาบ", "en": "Tonle Sap" }
+    },
+    "station": {
+      "id": 200,
+      "tele_station_name": { "en": "Klong Prom Hod", "th": "คลองพรหมโหด" },
+      "tele_station_lat": 13.705885,
+      "tele_station_long": 102.48168,
+      "tele_station_oldcode": "SKE003",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 44.661,
+      "right_bank": 44.296,
+      "min_bank": 44.3,
+      "ground_level": 40.699,
+      "offset": null,
+      "sub_basin_id": 288,
+      "agency_id": 9,
+      "geocode_id": 1651,
+      "hydro_id": null,
+      "qmax": null,
+      "is_key_station": true,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": 44.389
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "06",
+      "amphoe_name": { "th": "อรัญประเทศ", "en": "Aranyaprathet District" },
+      "tumbon_code": "08",
+      "tumbon_name": { "th": "บ้านใหม่หนองไทร", "en": "Ban Mai Nong Sai" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "3.18",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 197020,
+    "river_name": "ห้วยพรมโหด"
+  },
+  {
+    "id": 1004899458,
+    "waterlevel_datetime": "2025-01-10 15:20",
+    "waterlevel_m": null,
+    "waterlevel_msl": "10.27",
+    "waterlevel_msl_previous": "10.28",
+    "flow_rate": null,
+    "discharge": null,
+    "storage_percent": "0.81",
+    "sort_order": null,
+    "station_type": "tele_waterlevel",
+    "situation_level": 1,
+    "agency": {
+      "id": 9,
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro – Informatics Institute (Public Organization)",
+        "jp": ""
+      },
+      "agency_shortname": { "th": "สสน.", "en": "HII", "jp": "" }
+    },
+    "basin": {
+      "id": 16,
+      "basin_code": 15,
+      "basin_name": { "th": "ลุ่มน้ำบางปะกง", "en": "Bang Pakong" }
+    },
+    "station": {
+      "id": 190,
+      "tele_station_name": { "en": "Klong Pra Prong", "th": "คลองพระปรง" },
+      "tele_station_lat": 13.9374,
+      "tele_station_long": 101.92199,
+      "tele_station_oldcode": "SKE001",
+      "tele_station_type": "tele_waterlevel",
+      "left_bank": 19.615,
+      "right_bank": 21.249,
+      "min_bank": 19.61,
+      "ground_level": 10.194,
+      "offset": null,
+      "sub_basin_id": 278,
+      "agency_id": 9,
+      "geocode_id": 1605,
+      "hydro_id": null,
+      "qmax": null,
+      "is_key_station": false,
+      "warning_level_m": null,
+      "critical_level_m": null,
+      "critical_level_msl": null
+    },
+    "geocode": {
+      "area_code": "2",
+      "area_name": { "th": "ภาคกลาง", "en": "Central" },
+      "amphoe_code": "01",
+      "amphoe_name": { "th": "เมืองสระแก้ว", "en": "Mueang Sa Kaeo District" },
+      "tumbon_code": "02",
+      "tumbon_name": { "th": "บ้านแก้ง", "en": "Ban Kaeng" },
+      "province_code": "27",
+      "province_name": { "th": "สระแก้ว", "en": "Sa Kaeo" }
+    },
+    "diff_wl_bank": "9.34",
+    "diff_wl_bank_text": "ต่ำกว่าตลิ่ง (ม.)",
+    "river_gid": 195500,
+    "river_name": "คลองพระปรง"
+  }
+]

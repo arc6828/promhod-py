@@ -1,0 +1,79 @@
+[
+  {
+    "id": 192,
+    "tele_station_name": "ตาพระยา",
+    "tele_station_lat": 14.051245,
+    "tele_station_long": 102.88538,
+    "is_key_station": false,
+    "tumbon_name": "ทัพเสด็จ",
+    "amphoe_name": "ตาพระยา",
+    "province_name": "สระแก้ว",
+    "river_name": "ห้วยยาง"
+  },
+  {
+    "id": 191,
+    "tele_station_name": "เมืองสระแก้ว",
+    "tele_station_lat": 13.809581,
+    "tele_station_long": 102.05429,
+    "is_key_station": false,
+    "tumbon_name": "สระขวัญ",
+    "amphoe_name": "เมืองสระแก้ว",
+    "province_name": "สระแก้ว",
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 2677,
+    "tele_station_name": "บ้านสระขวัญ",
+    "tele_station_lat": 13.8096,
+    "tele_station_long": 102.054382,
+    "is_key_station": false,
+    "tumbon_name": "สระขวัญ",
+    "amphoe_name": "เมืองสระแก้ว",
+    "province_name": "สระแก้ว",
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 2675,
+    "tele_station_name": "บ้านเขาฉกรรจ์",
+    "tele_station_lat": 13.66804,
+    "tele_station_long": 102.0756,
+    "is_key_station": true,
+    "tumbon_name": "หนองหว้า",
+    "amphoe_name": "เขาฉกรรจ์",
+    "province_name": "สระแก้ว",
+    "river_name": "คลองพระสะทึง"
+  },
+  {
+    "id": 1098950,
+    "tele_station_name": "บ้านแก้ง",
+    "tele_station_lat": 13.93635,
+    "tele_station_long": 101.972321,
+    "is_key_station": true,
+    "tumbon_name": "บ้านแก้ง",
+    "amphoe_name": "เมืองสระแก้ว",
+    "province_name": "สระแก้ว",
+    "river_name": "คลองพระปรง"
+  },
+  {
+    "id": 200,
+    "tele_station_name": "คลองพรหมโหด",
+    "tele_station_lat": 13.705885,
+    "tele_station_long": 102.48168,
+    "is_key_station": true,
+    "tumbon_name": "บ้านใหม่หนองไทร",
+    "amphoe_name": "อรัญประเทศ",
+    "province_name": "สระแก้ว",
+    "river_name": "ห้วยพรมโหด"
+  },
+  {
+    "id": 190,
+    "tele_station_name": "คลองพระปรง",
+    "tele_station_lat": 13.9374,
+    "tele_station_long": 101.92199,
+    "is_key_station": false,
+    "tumbon_name": "บ้านแก้ง",
+    "amphoe_name": "เมืองสระแก้ว",
+    "province_name": "สระแก้ว",
+    "river_name": "คลองพระปรง"
+  }
+]
