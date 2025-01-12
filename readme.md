@@ -5,7 +5,7 @@ pip install notebook pandas ipywidgets openpyxl
 ```
 ## WEB CRAWLING
 ```
-pip install beautifulsoup4 requests
+pip install beautifulsoup4 requests (include in basic)
 ```
 
 
