@@ -1,13 +1,15 @@
 # Promhod Python
 ## Basic
 ```python
-pip install notebook pandas ipywidgets openpyxl
+pip install notebook pandas ipywidgets openpyxl matplotlib
 ```
 ## WEB CRAWLING
 ```
 pip install beautifulsoup4 requests (include in basic)
 ```
 
+### ML
+pip install scikit-learn
 
 ### NER
 ```
