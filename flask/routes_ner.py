@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # routes/ner_routes.py
-from flask import Flask, jsonify, Blueprint
+from flask import Flask, jsonify, Blueprint, request
 from ner import perform_ner_based_on_language
+from pythainlp.tokenize import word_tokenize
 
 ner_bp = Blueprint('ner_bp', __name__)
 
@@ -20,3 +21,29 @@ def test():
     # Perform NER
     data = perform_ner_based_on_language(text1)
     return jsonify(data)
+
+@ner_bp.route('/text', methods=['POST'])
+def text():
+    # รับ JSON จากคำขอ
+    data = request.get_json()
+    
+    # ตรวจสอบข้อมูล
+    if not data:
+        return jsonify({"error": "No JSON provided"}), 400
+
+    # ทำบางอย่างกับข้อมูล
+    # name = data.get("name", "Unknown")
+    # age = data.get("age", "Unknown")
+
+    content = data.get("content", "")
+    content = content[:500]
+    
+    # Perform NER
+    ner = perform_ner_based_on_language(content)
+
+    message = {
+        "original_message": content,
+        "ner": ner,
+    }
+    # ส่ง JSON ตอบกลับ
+    return jsonify(message)
