@@ -35,3 +35,9 @@ sudo systemctl deamon-reload
 systemctl restart flask 
 systemctl status flask 
 ```
+
+
+## HEATMAP
+```
+pip install folium
+```
