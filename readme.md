@@ -41,3 +41,8 @@ systemctl status flask
 ```
 pip install folium
 ```
+
+## DOI
+```
+pip install habanero
+```
