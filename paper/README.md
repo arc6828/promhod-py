@@ -1,4 +1,5 @@
 # การปรับปรุงระบบสกัด รวบรวมข้อมูล และสรุปเหตุการณ์น้ำท่วมจากข่าวออนไลน์ด้วยโมเดลภาษาขนาดใหญ่
+## (Improving the System for Extracting, Gathering, and Summarizing Flood Events from Online News with Large Language Models)
 
 **คณะผู้จัดทำ:** ชวลิต โควีระวงศ์, ดาวรถา วีระพันธ์, รัตถชน อ่างมณี, ไพรินทร์ มีศรี
 
